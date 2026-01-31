@@ -1,3 +1,4 @@
+# 한국어 문서 / Korean document
 # 내용을 번역 하지 마시오 / Do not translate the content
 번역하면 글자가 이상해짐 / When translated, the text becomes strange.
 # 개발 규칙
