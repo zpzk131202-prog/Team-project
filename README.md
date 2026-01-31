@@ -1,5 +1,6 @@
 # 한국어 문서 / Korean document
 # 내용을 번역 하지 마시오 / Do not translate the content
+# 궁금한 점: Ai 사용 가능? '네, Ai 코딩 또는 내 코딩 다 가능 합니다'
 번역하면 글자가 이상해짐 / When translated, the text becomes strange.
 # 유튜브 영상: 공개 안됨
 # 사용 프로그램: Godot 엔진
