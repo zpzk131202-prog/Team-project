@@ -2,6 +2,7 @@
 # 내용을 번역 하지 마시오 / Do not translate the content
 번역하면 글자가 이상해짐 / When translated, the text becomes strange.
 # 유튜브 영상: 공개 안됨
+# 사용 프로그램: Godot 엔진
 # 개발 규칙
 
 이 프로젝트는 **유튜브 시청자 참여형 게임 개발** 입니다.  
